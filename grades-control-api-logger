@@ -1,0 +1,206 @@
+2020-06-08T10:52:11.012Z [grades-control-api] info: API Started!
+2020-06-08T10:52:24.151Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10,"timestamp":"2020-06-08T10:52:10.498Z"}
+2020-06-08T11:04:29.188Z [grades-control-api] info: API Started!
+2020-06-08T11:04:36.462Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T11:04:29.118Z"}
+2020-06-08T11:06:32.491Z [grades-control-api] info: API Started!
+2020-06-08T11:07:12.007Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T11:08:15.388Z [grades-control-api] info: API Started!
+2020-06-08T11:09:07.712Z [grades-control-api] info: API Started!
+2020-06-08T11:10:50.417Z [grades-control-api] info: GET /grade:id - {"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}
+2020-06-08T11:11:39.729Z [grades-control-api] info: API Started!
+2020-06-08T11:12:13.259Z [grades-control-api] info: API Started!
+2020-06-08T11:12:15.593Z [grades-control-api] info: GET /grade
+2020-06-08T11:14:46.422Z [grades-control-api] info: API Started!
+2020-06-08T11:15:32.283Z [grades-control-api] info: API Started!
+2020-06-08T11:15:56.139Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T11:15:32.208Z"}
+2020-06-08T11:16:47.175Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T11:16:49.907Z [grades-control-api] info: GET /grade
+2020-06-08T11:17:05.732Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T11:15:32.208Z"}
+2020-06-08T11:18:50.005Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T11:18:56.108Z [grades-control-api] info: GET /grade
+2020-06-08T11:19:12.059Z [grades-control-api] info: GET /grade:id - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10,"timestamp":"2020-06-08T11:15:32.208Z"}
+2020-06-08T11:19:18.331Z [grades-control-api] info: GET /grade
+2020-06-08T11:20:44.573Z [grades-control-api] info: API Started!
+2020-06-08T11:21:33.685Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T11:23:56.637Z [grades-control-api] info: API Started!
+2020-06-08T11:25:30.339Z [grades-control-api] info: API Started!
+2020-06-08T11:26:11.486Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T11:27:10.818Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T11:27:39.196Z [grades-control-api] info: GET /grade:id - {"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}
+2020-06-08T11:27:42.526Z [grades-control-api] info: GET /grade:id - {"id":47,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"}
+2020-06-08T11:27:47.131Z [grades-control-api] info: GET /grade:id - {"id":46,"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"}
+2020-06-08T11:27:50.929Z [grades-control-api] info: GET /grade:id - {"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-08T11:36:43.617Z [grades-control-api] info: API Started!
+2020-06-08T11:37:00.246Z [grades-control-api] info: API Started!
+2020-06-08T11:38:48.493Z [grades-control-api] info: API Started!
+2020-06-08T11:38:52.206Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T11:39:15.501Z [grades-control-api] info: API Started!
+2020-06-08T11:39:17.792Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T11:40:11.287Z [grades-control-api] info: API Started!
+2020-06-08T11:41:38.165Z [grades-control-api] info: API Started!
+2020-06-08T11:42:03.515Z [grades-control-api] info: API Started!
+2020-06-08T11:42:15.716Z [grades-control-api] info: API Started!
+2020-06-08T11:45:21.658Z [grades-control-api] info: API Started!
+2020-06-08T11:45:46.648Z [grades-control-api] info: API Started!
+2020-06-08T11:48:37.795Z [grades-control-api] info: API Started!
+2020-06-08T11:48:39.110Z [grades-control-api] error: GET /grade/total Invalid status code: 45
+2020-06-08T11:50:43.513Z [grades-control-api] info: API Started!
+2020-06-08T11:51:46.700Z [grades-control-api] info: API Started!
+2020-06-08T11:53:12.654Z [grades-control-api] info: GET /grade:id - {"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-08T11:53:18.200Z [grades-control-api] info: GET /grade:id - {"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"}
+2020-06-08T11:54:38.547Z [grades-control-api] info: API Started!
+2020-06-08T11:54:40.741Z [grades-control-api] error: GET /grade/total grade is not defined
+2020-06-08T11:54:55.953Z [grades-control-api] info: API Started!
+2020-06-08T11:54:57.892Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T11:55:08.089Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T11:55:16.054Z [grades-control-api] info: API Started!
+2020-06-08T11:55:16.966Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T11:55:36.089Z [grades-control-api] info: API Started!
+2020-06-08T11:55:37.823Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T11:55:57.388Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T11:56:47.487Z [grades-control-api] info: GET /grade/total - 47
+2020-06-08T11:56:57.485Z [grades-control-api] info: GET /grade/total - 56
+2020-06-08T11:59:48.267Z [grades-control-api] info: API Started!
+2020-06-08T11:59:57.173Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T11:59:48.192Z"}
+2020-06-08T12:00:41.071Z [grades-control-api] info: API Started!
+2020-06-08T12:00:43.561Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T12:01:26.893Z [grades-control-api] info: API Started!
+2020-06-08T12:01:49.008Z [grades-control-api] info: API Started!
+2020-06-08T12:02:12.138Z [grades-control-api] info: API Started!
+2020-06-08T12:02:21.308Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T12:02:49.100Z [grades-control-api] info: API Started!
+2020-06-08T12:03:31.872Z [grades-control-api] info: API Started!
+2020-06-08T12:03:56.605Z [grades-control-api] info: API Started!
+2020-06-08T12:05:51.645Z [grades-control-api] info: API Started!
+2020-06-08T12:06:15.168Z [grades-control-api] info: API Started!
+2020-06-08T12:06:49.727Z [grades-control-api] info: API Started!
+2020-06-08T12:07:15.461Z [grades-control-api] info: API Started!
+2020-06-08T12:07:26.478Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Bruno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T12:08:09.251Z [grades-control-api] info: PUT /grade - {"id":49,"student":"Gustavo Breno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T12:08:48.898Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T12:10:17.859Z [grades-control-api] info: API Started!
+2020-06-08T12:10:31.632Z [grades-control-api] info: API Started!
+2020-06-08T12:10:34.875Z [grades-control-api] info: API Started!
+2020-06-08T12:12:43.497Z [grades-control-api] info: API Started!
+2020-06-08T12:12:53.001Z [grades-control-api] info: API Started!
+2020-06-08T12:14:53.218Z [grades-control-api] info: API Started!
+2020-06-08T12:15:58.250Z [grades-control-api] info: API Started!
+2020-06-08T12:20:25.525Z [grades-control-api] info: API Started!
+2020-06-08T12:21:57.571Z [grades-control-api] info: API Started!
+2020-06-08T12:23:05.853Z [grades-control-api] info: API Started!
+2020-06-08T12:24:32.756Z [grades-control-api] info: API Started!
+2020-06-08T12:24:49.092Z [grades-control-api] info: API Started!
+2020-06-08T12:24:53.242Z [grades-control-api] info: API Started!
+2020-06-08T12:25:01.355Z [grades-control-api] info: GET /grade/total - "13.50"
+2020-06-08T12:27:39.998Z [grades-control-api] info: API Started!
+2020-06-08T12:27:45.202Z [grades-control-api] info: API Started!
+2020-06-08T12:27:57.036Z [grades-control-api] info: API Started!
+2020-06-08T18:00:45.341Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:01:03.076Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:01:13.943Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:06:17.069Z [grades-control-api] info: GET /grade
+2020-06-08T18:06:40.781Z [grades-control-api] info: GET /grade:id - {"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}
+2020-06-08T18:07:00.710Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T18:07:11.807Z [grades-control-api] info: GET /grade
+2020-06-08T18:07:21.425Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T12:27:56.964Z"}
+2020-06-08T18:07:25.043Z [grades-control-api] info: GET /grade
+2020-06-08T18:07:46.048Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T18:08:07.063Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:08:56.805Z [grades-control-api] info: GET /grade/total - 56
+2020-06-08T18:09:08.635Z [grades-control-api] info: GET /grade/total - 0
+2020-06-08T18:09:16.685Z [grades-control-api] info: GET /grade/total - 0
+2020-06-08T18:09:28.898Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T18:20:59.925Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T18:21:22.460Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T18:21:35.090Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T18:21:35.363Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T18:21:38.351Z [grades-control-api] info: GET /grade:id - undefined
+2020-06-08T18:27:54.191Z [grades-control-api] info: API Started!
+2020-06-08T18:28:14.966Z [grades-control-api] info: GET /grade
+2020-06-08T18:29:33.987Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T18:27:54.022Z"}
+2020-06-08T18:29:38.830Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T18:29:49.927Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T18:29:55.969Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:30:40.775Z [grades-control-api] info: API Started!
+2020-06-08T18:30:42.136Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:31:01.418Z [grades-control-api] info: API Started!
+2020-06-08T18:31:02.832Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:31:14.917Z [grades-control-api] info: API Started!
+2020-06-08T18:31:15.337Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:31:39.640Z [grades-control-api] info: API Started!
+2020-06-08T18:31:39.863Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:32:17.492Z [grades-control-api] info: API Started!
+2020-06-08T18:32:17.644Z [grades-control-api] info: GET /grade/total - "15.50"
+2020-06-08T18:34:32.222Z [grades-control-api] info: API Started!
+2020-06-08T18:34:33.672Z [grades-control-api] info: GET /grade/total - 15.5
+2020-06-08T18:35:08.171Z [grades-control-api] info: API Started!
+2020-06-08T18:35:20.498Z [grades-control-api] info: GET /grade/total - 27
+2020-06-08T18:37:26.022Z [grades-control-api] info: API Started!
+2020-06-08T18:37:26.286Z [grades-control-api] info: GET /grade/bigger - [{"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":25,"timestamp":"2020-05-19T18:21:25.184Z"},{"id":21,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.084Z"},{"id":45,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Desafio","value":16,"timestamp":"2020-05-19T18:21:25.266Z"},{"id":9,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Desafio","value":5,"timestamp":"2020-05-19T18:21:25.004Z"}]
+2020-06-08T18:38:24.811Z [grades-control-api] info: GET /grade/bigger - [{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":37,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"}]
+2020-06-08T18:43:05.174Z [grades-control-api] info: API Started!
+2020-06-08T18:43:23.104Z [grades-control-api] info: API Started!
+2020-06-08T18:43:23.754Z [grades-control-api] error: GET /grade/bigger Assignment to constant variable.
+2020-06-08T18:43:32.059Z [grades-control-api] info: API Started!
+2020-06-08T18:43:33.864Z [grades-control-api] info: GET /grade/bigger - [[{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":37,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"}],[{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":37,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"}],[{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"},{"id":37,"student":"Rodrigo Branas","subject":"01 - JavaScript","type":"Fórum","value":6,"timestamp":"2020-05-19T18:21:25.211Z"}]]
+2020-06-08T18:44:33.644Z [grades-control-api] info: API Started!
+2020-06-08T18:44:34.320Z [grades-control-api] info: GET /grade/bigger - [{"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"},{"id":13,"student":"Roberta Arcoverde","subject":"01 - JavaScript","type":"Fórum","value":13,"timestamp":"2020-05-19T18:21:25.032Z"},{"id":25,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Fórum","value":9,"timestamp":"2020-05-19T18:21:25.113Z"}]
+2020-06-08T18:45:39.550Z [grades-control-api] info: GET /grade/bigger - [{"id":30,"student":"Roberto Achar","subject":"02 - Node","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:25.165Z"},{"id":6,"student":"Loiane Groner","subject":"02 - Node","type":"Trabalho Prático","value":24,"timestamp":"2020-05-19T18:21:24.987Z"},{"id":18,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:25.066Z"}]
+2020-06-08T18:50:56.138Z [grades-control-api] info: POST /grade - {"id":49,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T18:44:33.573Z"}
+2020-06-08T18:52:06.864Z [grades-control-api] info: API Started!
+2020-06-08T18:52:12.521Z [grades-control-api] info: POST /grade - {"id":50,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T18:52:12.518Z"}
+2020-06-08T18:52:23.134Z [grades-control-api] info: POST /grade - {"id":51,"student":"Gustavo Júnior","subject":"Fisica","type":"Prova 4º unidade","value":9,"timestamp":"2020-06-08T18:52:23.133Z"}
+2020-06-08T18:52:29.721Z [grades-control-api] info: API Started!
+2020-06-08T18:52:40.759Z [grades-control-api] info: GET /grade
+2020-06-08T18:53:19.542Z [grades-control-api] info: GET /grade
+2020-06-08T18:53:33.265Z [grades-control-api] info: PUT /grade - {"id":51,"student":"Gustavo Breno","subject":"Matemática","type":"Prova 2º unidade","value":10}
+2020-06-08T18:53:37.036Z [grades-control-api] info: GET /grade
+2020-06-08T18:54:37.417Z [grades-control-api] info: GET /grade
+2020-06-08T18:54:41.938Z [grades-control-api] info: DELETE /grade:id - 49
+2020-06-08T18:54:44.422Z [grades-control-api] info: GET /grade
+2020-06-08T18:54:54.624Z [grades-control-api] info: DELETE /grade:id - 50
+2020-06-08T18:54:56.605Z [grades-control-api] info: GET /grade
+2020-06-08T18:55:04.415Z [grades-control-api] info: DELETE /grade:id - 51
+2020-06-08T18:55:05.850Z [grades-control-api] info: GET /grade
+2020-06-08T18:55:45.595Z [grades-control-api] info: GET /grade:id - {"id":4,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Fórum","value":2,"timestamp":"2020-05-19T18:21:24.975Z"}
+2020-06-08T18:55:49.327Z [grades-control-api] info: GET /grade:id - {"id":5,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:24.981Z"}
+2020-06-08T18:56:02.843Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T18:56:22.082Z [grades-control-api] info: GET /grade/total - 41
+2020-06-08T18:57:07.333Z [grades-control-api] info: GET /grade/total - 36
+2020-06-08T18:58:03.380Z [grades-control-api] info: GET /grade/average - 28.5
+2020-06-08T18:59:03.551Z [grades-control-api] info: GET /grade/bigger - [{"id":11,"student":"Loiane Groner","subject":"03 - React","type":"Desafio","value":40,"timestamp":"2020-05-19T18:21:25.019Z"},{"id":47,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"}]
+2020-06-08T19:00:49.518Z [grades-control-api] info: DELETE /grade:id - 1
+2020-06-08T19:01:21.329Z [grades-control-api] info: GET /grade
+2020-06-08T19:01:32.049Z [grades-control-api] info: GET /grade:id - {"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"}
+2020-06-08T19:01:35.115Z [grades-control-api] info: GET /grade/total - 36
+2020-06-08T19:01:37.227Z [grades-control-api] info: GET /grade/average - 28.5
+2020-06-08T19:01:39.035Z [grades-control-api] info: GET /grade/bigger - [{"id":11,"student":"Loiane Groner","subject":"03 - React","type":"Desafio","value":40,"timestamp":"2020-05-19T18:21:25.019Z"},{"id":47,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"}]
+2020-06-08T19:02:04.804Z [grades-control-api] info: GET /grade/average - 0
+2020-06-08T19:02:10.488Z [grades-control-api] info: GET /grade/average - 10.75
+2020-06-08T19:02:31.177Z [grades-control-api] info: GET /grade/bigger - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-08T19:03:04.726Z [grades-control-api] info: GET /grade/average - 27
+2020-06-08T19:03:49.327Z [grades-control-api] info: GET /grade/total - 47
+2020-06-08T19:04:28.504Z [grades-control-api] info: GET /grade/average - 27
+2020-06-08T19:06:57.872Z [grades-control-api] info: POST /grade - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-08T19:06:57.869Z"}
+2020-06-08T19:07:25.221Z [grades-control-api] info: GET /grade/total - 70
+2020-06-08T19:08:54.615Z [grades-control-api] info: PUT /grade - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-06-08T19:09:29.399Z [grades-control-api] info: GET /grade/average - 13
+2020-06-08T19:10:02.316Z [grades-control-api] info: DELETE /grade:id - 32
+2020-06-08T19:10:34.444Z [grades-control-api] info: GET /grade/average - 26
+2020-06-08T19:10:50.619Z [grades-control-api] info: GET /grade:id - {"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}
+2020-06-08T19:25:32.756Z [grades-control-api] info: GET /grade/average - 0
+2020-06-08T19:25:36.308Z [grades-control-api] info: GET /grade/average - 10.75
+2020-06-08T19:26:26.128Z [grades-control-api] info: GET /grade/bigger - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-08T19:27:30.697Z [grades-control-api] info: GET /grade/average - 27
+2020-06-08T19:28:59.113Z [grades-control-api] info: GET /grade/total - 47
+2020-06-08T19:31:19.467Z [grades-control-api] info: GET /grade/total - 60
+2020-06-08T19:31:29.647Z [grades-control-api] info: POST /grade - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-08T19:31:29.645Z"}
+2020-06-08T19:31:37.432Z [grades-control-api] info: GET /grade/total - 70
+2020-06-08T19:32:13.629Z [grades-control-api] info: GET /grade/average - 15.5
+2020-06-08T19:32:50.065Z [grades-control-api] info: PUT /grade - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15}
+2020-06-08T19:32:52.011Z [grades-control-api] info: GET /grade/average - 13
+2020-06-08T19:33:28.618Z [grades-control-api] info: GET /grade/average - 23.5
+2020-06-08T19:33:37.467Z [grades-control-api] info: DELETE /grade:id - 32
+2020-06-08T19:33:40.146Z [grades-control-api] info: GET /grade/average - 26
+2020-06-08T19:33:54.643Z [grades-control-api] info: GET /grade:id - {"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}
+2020-06-08T19:44:25.578Z [grades-control-api] info: API Started!
